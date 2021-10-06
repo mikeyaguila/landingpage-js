@@ -35,7 +35,4 @@ To use this project, first clone the repo on your device using the command below
 
 # Footer
 [(Back to top)](#Landingpage-js)
-
 Thanks for taking the time to read through.
-
-![Footer](https://github.com/mikeyaguila/landingpage-js/blob/20211006_initial_files/footer.png)
