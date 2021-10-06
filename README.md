@@ -7,12 +7,9 @@ Simple HTML &amp; CSS dynamic landing page with Vanilla JS. This project require
   - HTML5
   - CSS
   
-* Project rubric: 
-
-Check out the specifications [here](https://review.udacity.com/#!/rubrics/2658/view).
 <!-- Add banner here -->
 # Screenshot
-![Banner](https://github.com/mikeyaguila/landingpage-js/blob/main/screenshot-js-landingpage.png)
+![Banner](https://github.com/mikeyaguila/landingpage-js/blob/20211006_initial_files/screenshot-js-landingpage.png)
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -40,6 +37,6 @@ To use this project, first clone the repo on your device using the command below
 
 Thanks for taking the time to read through.
 
-![Footer](https://github.com/mikeyaguila/landingpage-js/blob/main/footer.png)
+![Footer](https://github.com/mikeyaguila/landingpage-js/blob/20211006_initial_files/footer.png)
 
 
