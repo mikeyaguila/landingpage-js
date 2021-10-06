@@ -12,7 +12,7 @@ Simple HTML &amp; CSS dynamic landing page with Vanilla JS. This project require
 ![Banner](https://github.com/mikeyaguila/landingpage-js/blob/20211006_initial_files/screenshot-js-landingpage.png)
 
 # Installation
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Landingpage-js)
 
 To use this project, first clone the repo on your device using the command below:
 
@@ -21,22 +21,21 @@ To use this project, first clone the repo on your device using the command below
 ```git clone https://github.com/mikeyaguila/landingpage-js.git```
 
 # File structure
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Landingpage-js)
 
-.
-├── css
-    ├── styles.css              # all css styling for index.html 
-├── js
-    ├── app2.js                 # contains all Vanilla js code for the index animations
-├── index.html                  # Documentation files (alternatively `doc`)
-├── README.md                   # Table of contents
-├── screenshot-js-landingpage   # Hero image used for README.md            
+<pre>
+├── landingpage-js
+│   ├── css
+│   │   ├── styles.css
+│   ├── index.html
+│   ├── js
+│   │   ├── app2.js
+├── README.md
+</pre>
 
 # Footer
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Landingpage-js)
 
 Thanks for taking the time to read through.
 
 ![Footer](https://github.com/mikeyaguila/landingpage-js/blob/20211006_initial_files/footer.png)
-
-
